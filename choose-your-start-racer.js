@@ -1,4 +1,6 @@
 
+const time = 2000;
+
 document.addEventListener("load", function() {
 
 	setTimeout(function() {
@@ -30,8 +32,8 @@ document.addEventListener("load", function() {
 
 			﻿location.reload();
 
-		}, 200);
+		}, time);
 
-	}, 200);
+	}, time);
 
 });
