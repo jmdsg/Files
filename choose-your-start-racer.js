@@ -1,4 +1,3 @@
-
 const time = 2000;
 
 document.addEventListener("load", function() {
